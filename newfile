@@ -1,5 +1,5 @@
 public class newfile {
-
+    System.out.print("hellojava");
 }
 
 //添加了个newbranch，上传看一下效果。
